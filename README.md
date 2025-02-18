@@ -13,8 +13,8 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-##views
-<img src="https://count.getloli.com/get/@:kaiju-no-9?theme=random" alt=":name" />
+### views
+<img src="https://count.getloli.com/get/@:kaiju-no-9?theme=booru-jaypee" alt=":name" />
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kaiju-no-9&limit=5&theme=dark&combine_all_yearly_contributions=true)
 [![An image of @kaijuno9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kaijuno9)](https://holopin.io/@kaijuno9)---
