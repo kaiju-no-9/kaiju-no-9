@@ -35,10 +35,10 @@
         <br>bootstrap
       </td>
       <td align="center" style="border: none;">
-        <a href="https://reactjs.org/" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
+        <a href="https://www.figma.com" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="React" width="50" height="50"/>
         </a>
-        <br>React
+        <br>figma
       </td>
       <td align="center" style="border: none;">
         <a href="https://www.typescriptlang.org/" style="color: white;">
