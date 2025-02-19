@@ -4,7 +4,7 @@
 ## github status
 
 ![](https://github.com/kaiju-no-9/gif/blob/main/143709.gif)
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kaiju-no-9&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nishchay-kumar-63bb92325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/u/ApprehensiveElk1329/s/WLvbKL9UBJ) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/27272854/nishchay-kumar) 
