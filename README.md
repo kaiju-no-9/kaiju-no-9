@@ -1,4 +1,4 @@
-<img  align ="center" src="https://readme-typing-svg.demolab.com?font=typefaces+&pause=1000&color=10F731&width=435&lines=%24+chmod+%2Bx+HelloWorld.sh)](https://git.io/typing-svg)">
+<img  align ="center" src="https://readme-typing-svg.demolab.com?font=typefaces+&pause=1000&color=10F731&width=435&lines=%24+chmod+%2Bx+HelloWorld.sh)(https://git.io/typing-svg)">
 
 <img align="right" src="https://github.com/kaiju-no-9/gif/blob/main/143709.gif?raw=true" height=400 width=360 >
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50>&nbsp;***About me***
