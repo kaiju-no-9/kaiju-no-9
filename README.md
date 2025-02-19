@@ -3,7 +3,7 @@
 🔭 I’m  currently learning to code as a beginner<br>👯 I’m  trying for open source contribution<br>🤝 I’m also interested in competitive programming<br>🌱 I currently learning javascript<br>💬 Ask me about Phyton, javascript<br>
 
 
-<img align="center" src="https://github.com/kaiju-no-9/gif/blob/main/143709.gif">
+<img  src="https://github.com/kaiju-no-9/gif/blob/main/143709.gif?raw=true" height=500>
 
 
 ## 🌐 Socials:
