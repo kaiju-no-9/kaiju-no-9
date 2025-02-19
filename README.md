@@ -106,6 +106,9 @@
 
 ## contribution
 
+ ![GitHub Contribution Snake](https://github.com/kaiju-no-9/kaiju-no-9/blob/output/snake-cool.svg)
+
+  
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ### Views
