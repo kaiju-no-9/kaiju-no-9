@@ -29,10 +29,10 @@
         <br>Next.js
       </td>
       <td align="center" style="border: none;">
-        <a href="https://tailwindcss.com/" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
+        <a href="https://getbootstrap.com" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="50" height="50" alt="Tailwind CSS"/>
         </a>
-        <br>Tailwind CSS
+        <br>bootstrap
       </td>
       <td align="center" style="border: none;">
         <a href="https://reactjs.org/" style="color: white;">
