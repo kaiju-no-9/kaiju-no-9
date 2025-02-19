@@ -23,10 +23,10 @@
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://nextjs.org/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
+        <a href="(https://vuejs.org" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" width="50" height="50" alt="Next.js"/>
         </a>
-        <br>Next.js
+        <br>Vue.js
       </td>
       <td align="center" style="border: none;">
         <a href="https://getbootstrap.com" style="color: white;">
