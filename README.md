@@ -1,4 +1,5 @@
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50 height=50>&nbsp;***About me***
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50 height=50>&nbsp;***About Me***
+
 🔭 I’m  currently learning to code as a beginner<br>👯 I’m  trying for open source contribution<br>🤝 I’m also interested in competitive programming<br>🌱 I currently learning javascript<br>💬 Ask me about Phyton, javascript<br>
 
 
