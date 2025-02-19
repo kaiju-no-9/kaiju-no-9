@@ -3,7 +3,7 @@
 
 ## github status
 
-![GIF](https://raw.githubusercontent.com/kaiju-no-9/gif/main/143709.gif =300x)
+![](https://github.com/kaiju-no-9/gif/blob/main/143709.gif)
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kaiju-no-9&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
 
 ## 🌐 Socials:
