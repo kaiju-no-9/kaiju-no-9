@@ -111,7 +111,7 @@ counting of visitors to this page in this section started from feb 18, 2025
 
 <img src="https://count.getloli.com/get/@:kaiju-no-9?theme=gelbooru-h" alt=":name" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kaiju-no-9&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+<img  src="https://github-readme-stats.vercel.app/api?username=kaiju-no-9&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
 
 [![An image of @kaijuno9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kaijuno9)](https://holopin.io/@kaijuno9)---
 [![](https://visitcount.itsvg.in/api?id=kaiju-no-9&icon=0&color=0)](https://visitcount.itsvg.in)
