@@ -1,9 +1,9 @@
+<img align="right" src="https://github.com/kaiju-no-9/gif/blob/main/143709.gif?raw=true" height=500 >
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50 height=50>&nbsp;***About Me***
 
 🔭 I’m  currently learning to code as a beginner<br>👯 I’m  trying for open source contribution<br>🤝 I’m also interested in competitive programming<br>🌱 I currently learning javascript<br>💬 Ask me about Phyton, javascript<br>
 
 
-<img align="right" src="https://github.com/kaiju-no-9/gif/blob/main/143709.gif?raw=true" height=300 >
 <img  src="https://github-readme-stats.vercel.app/api?username=kaiju-no-9&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
 
 
