@@ -121,5 +121,7 @@ counting of visitors to this page in this section started from feb 18, 2025
 [![An image of @kaijuno9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kaijuno9)](https://holopin.io/@kaijuno9)---
 [![](https://visitcount.itsvg.in/api?id=kaiju-no-9&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<p>
+    <img src="https://raw.githubusercontent.com/Long18/Long18/refs/heads/dev/assets/footers/cat_on_line.svg?sanitize=true" alt="Footer Image" />
+  </p>
+  
