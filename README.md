@@ -26,7 +26,7 @@
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="(https://vuejs.org" style="color: white;">
+        <a href="https://vuejs.org" style="color: white;">
           <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" width="50" height="50" alt="Next.js"/>
         </a>
         <br>Vue.js
