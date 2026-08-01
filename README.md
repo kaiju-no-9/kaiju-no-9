@@ -36,12 +36,6 @@
       <img src="./followers.svg" width="100%" alt="Followers" />
     </td>
   </tr>
-  <tr valign="top">
-    <td colspan="2" align="center">
-      <br>
-      <img src="./metrics.svg" width="100%" alt="Full Metrics Overview" />
-    </td>
-  </tr>
 </table>
 
 ---
