@@ -5,9 +5,6 @@
   GitHub renders on your profile page). See the chat response for setup steps.
 -->
 
-<h1 align="center">Hi, I'm Nishchay 👋</h1>
-<p align="center"><i>coding at the speed of expansion of space itself ☄️</i></p>
-
 
 
 <!--
@@ -31,7 +28,7 @@
 
 <!-- techstack.svg is fetched and committed by .github/workflows/metrics.yml,
      same as the other files above — not a live hotlink. -->
-<img src="./techstack.svg" alt="Tech stack icons" />
+
 
 <br><br>
 
