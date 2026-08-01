@@ -21,21 +21,18 @@
 
 ![Metrics](./github-metrics.svg)
 
-<details>
-<summary>🌐 Isometric contribution calendar</summary>
-<br>
 
-![Calendar](./calendar.svg)
-
-</details>
-
-<details>
-<summary>💬 Most used languages</summary>
-<br>
-
-![Languages](./languages.svg)
-
-</details>
-
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>🌐 Isometric Contribution Calendar</b><br><br>
+      <img src="./calendar.svg" alt="Contribution Calendar" />
+    </td>
+    <td align="center" width="50%">
+      <b>💬 Most Used Languages</b><br><br>
+      <img src="./languages.svg" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
 ---
 
