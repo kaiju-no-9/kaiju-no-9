@@ -29,12 +29,10 @@
 </p>
 
 
-Counting of visitors to this page in this section started on Aug 2, 2026
+Counting of visitors to this page in this section started on Sep 21, 2025
 
 <img src="https://count.getloli.com/get/@:kaiju-no-9?theme=gelbooru-h" alt=":name" />
 
-
-<img src="https://count.getloli.com/get/@:kaiju-no-9?theme=gelbooru-h" alt=":name" />
 
  <p>
     <img src="https://raw.githubusercontent.com/Long18/Long18/refs/heads/dev/assets/footers/cat_on_line.svg?sanitize=true" alt="Footer Image" />
