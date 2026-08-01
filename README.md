@@ -20,13 +20,10 @@
 </table>
 
 
-## 💻 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,anaconda,bash,bun,cpp,cloudflare,docker,figma,firebase,gcp,git&perline=11" /><br>
-<img src="https://skillicons.dev/icons?i=github,githubactions,grafana,kafka,kubernetes,mongodb,nginx,nodejs,postgres,postman,prisma&perline=11" /><br>
-<img src="https://skillicons.dev/icons?i=prometheus,pytorch,py,react,redis,terraform,vercel,tailwind,swift,ts,svg&perline=11" />
-
-</div>
-
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=aws,anaconda,bash,bun,cpp,cloudflare,docker,figma,firebase,gcp,git,github,githubactions,grafana,kafka,kubernetes,mongodb,nginx,nodejs,postgres,postman,prisma,prometheus,pytorch,py,react,redis,terraform,vercel,tailwind,swift,ts,svg"
+    width="500"
+    alt="Tech Stack"
+  />
+</p>
