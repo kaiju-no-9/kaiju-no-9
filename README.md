@@ -20,10 +20,22 @@
 </table>
 
 
-<p align="center">
+<p align="left">
   <img
     src="https://skillicons.dev/icons?i=aws,anaconda,bash,bun,cpp,cloudflare,docker,figma,firebase,gcp,git,github,githubactions,grafana,kafka,kubernetes,mongodb,nginx,nodejs,postgres,postman,prisma,prometheus,pytorch,py,react,redis,terraform,vercel,tailwind,swift,ts,svg"
     width="500"
     alt="Tech Stack"
   />
 </p>
+
+
+Counting of visitors to this page in this section started on Aug 2, 2026
+
+<img src="https://count.getloli.com/get/@:kaiju-no-9?theme=gelbooru-h" alt=":name" />
+
+
+<img src="https://count.getloli.com/get/@:kaiju-no-9?theme=gelbooru-h" alt=":name" />
+
+ <p>
+    <img src="https://raw.githubusercontent.com/Long18/Long18/refs/heads/dev/assets/footers/cat_on_line.svg?sanitize=true" alt="Footer Image" />
+  </p>
