@@ -11,7 +11,7 @@
 
 ---
 
-
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="./techstack.svg" alt="Tech Stack" />
@@ -19,34 +19,32 @@
 
 ---
 
+### 📊 GitHub Metrics & Activity
 
-
-<!-- 
-  Organized side-by-side grid layout featuring all generated SVGs:
-  Row 1: Left = Header & Activity | Right = Community & Featured Repositories
-  Row 2: Left = Contribution Calendar & Streaks | Right = Full Metrics Overview
-  Row 3: Left = Most Used Languages | Right = Followers
--->
-
-<img align="left" width="49%" src="./github-metrics-left.svg" alt="GitHub Metrics - Left Column" />
-<img align="right" width="49%" src="./github-metrics-right.svg" alt="GitHub Metrics - Right Column" />
-<br clear="both">
-
-<br>
-
-<img align="left" width="49%" src="./calendar.svg" alt="Contributions Calendar" />
-<img align="right" width="49%" src="./metrics.svg" alt="Full Metrics Card" />
-<br clear="both">
-
-<br>
-
-<img align="left" width="49%" src="./languages.svg" alt="Languages Stats" />
-<img align="right" width="49%" src="./followers.svg" alt="Followers" />
-<br clear="both">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr valign="top">
+    <td width="50%" valign="top" align="center">
+      <img src="./github-metrics-left.svg" width="100%" alt="Header & Activity" />
+      <br><br>
+      <img src="./languages.svg" width="100%" alt="Most Used Languages" />
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="./github-metrics-right.svg" width="100%" alt="Community & Repositories" />
+      <br><br>
+      <img src="./followers.svg" width="100%" alt="Followers" />
+    </td>
+  </tr>
+  <tr valign="top">
+    <td colspan="2" align="center">
+      <br>
+      <img src="./metrics.svg" width="100%" alt="Full Metrics Overview" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-###  Find Me Elsewhere
+### 🌐 Find Me Elsewhere
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nishchay-kumar-63bb92325">
