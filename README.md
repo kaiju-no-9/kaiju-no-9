@@ -26,18 +26,14 @@
     <td width="50%" valign="top" align="center">
       <img src="./github-metrics-left.svg" width="100%" alt="Header & Activity" />
       <br><br>
+      <img src="./metrics.svg" width="100%" alt="Metrics Overview" />
+      <br><br>
       <img src="./languages.svg" width="100%" alt="Most Used Languages" />
     </td>
     <td width="50%" valign="top" align="center">
       <img src="./github-metrics-right.svg" width="100%" alt="Community & Repositories" />
       <br><br>
       <img src="./followers.svg" width="100%" alt="Followers" />
-    </td>
-  </tr>
-  <tr valign="top">
-    <td colspan="2" align="center">
-      <br>
-      <img src="./metrics.svg" width="100%" alt="Full Metrics Overview" />
     </td>
   </tr>
 </table>
