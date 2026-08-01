@@ -25,11 +25,11 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <b>🌐 Isometric Contribution Calendar</b><br><br>
+      <br><br>
       <img src="./calendar.svg" alt="Contribution Calendar" />
     </td>
     <td align="center" width="50%">
-      <b>💬 Most Used Languages</b><br><br>
+      <br><br>
       <img src="./languages.svg" alt="Most Used Languages" />
     </td>
   </tr>
