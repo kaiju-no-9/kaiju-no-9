@@ -8,16 +8,7 @@
 <h1 align="center">Hi, I'm Nishchay 👋</h1>
 <p align="center"><i>coding at the speed of expansion of space itself ☄️</i></p>
 
-### 🔭 About me
-- 🔭 Currently learning to code as a beginner
-- 👯 Looking to make my first open-source contributions
-- 🤝 Into competitive programming
-- 🌱 Currently learning JavaScript
-- 💬 Ask me about Python or JavaScript
 
----
-
-### 📊 GitHub metrics
 
 <!--
   Two files, side by side: left = header/activity/contribution calendar,
