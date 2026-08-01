@@ -6,8 +6,12 @@ on:
   schedule:
     - cron: "0 0 * * *"   # once a day — metrics data doesn't change fast enough to run more often
   workflow_dispatch:        # lets you trigger a run manually from the Actions tab
-  push:
-    branches: ["main"]
+
+# Prevents overlapping runs from racing to push to main at the same time
+# (belt-and-braces alongside removing the push trigger below).
+concurrency:
+  group: metrics
+  cancel-in-progress: false
 
 jobs:
   github-metrics:
@@ -81,4 +85,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add techstack.svg
-          git diff --staged --quiet || (git commit -m "chore: update techstack.svg" && git push)
+          git diff --staged --quiet || git commit -m "chore: update techstack.svg"
+          git pull --rebase origin main
+          git push
