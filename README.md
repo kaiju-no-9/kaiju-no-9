@@ -6,15 +6,9 @@
   <tr valign="top">
     <td width="50%" valign="top" align="center">
       <img src="./github-metrics-left.svg" width="100%" alt="Header & Activity" />
-      <br><br>
-      <img src="./calendar.svg" width="100%" alt="Contribution Calendar" />
-      <br><br>
-      <img src="./languages.svg" width="100%" alt="Most Used Languages" />
     </td>
     <td width="50%" valign="top" align="center">
       <img src="./github-metrics-right.svg" width="100%" alt="Community & Repositories" />
-      <br><br>
-      <img src="./followers.svg" width="100%" alt="Followers" />
     </td>
   </tr>
 </table>
