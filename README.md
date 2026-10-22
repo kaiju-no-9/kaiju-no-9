@@ -31,11 +31,11 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge" alt="PyTorch" />
 <img src="https://img.shields.io/badge/Machine_Learning-2563EB?style=for-the-badge" alt="Machine Learning" />
 <img src="https://img.shields.io/badge/Deep_Learning-7C3AED?style=for-the-badge" alt="Deep Learning" />
+<img src="https://img.shields.io/badge/RAG-7E57C2?style=for-the-badge" alt="RAG" />
+<img src="https://img.shields.io/badge/Hugging_Face-F6A44B?style=for-the-badge" alt="Hugging Face" />
 <img src="https://img.shields.io/badge/Inference_Engineering-0F766E?style=for-the-badge" alt="Inference Engineering" />
 <img src="https://img.shields.io/badge/LLM_Applications-6E40C9?style=for-the-badge" alt="LLM Applications" />
 <img src="https://img.shields.io/badge/Agent_Harnesses-514078?style=for-the-badge" alt="Agent Harnesses" />
-<img src="https://img.shields.io/badge/RAG-7E57C2?style=for-the-badge" alt="RAG" />
-<img src="https://img.shields.io/badge/Hugging_Face-F6A44B?style=for-the-badge" alt="Hugging Face" />
 
 <p><samp><b>› FRONTEND & DESIGN</b></samp></p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge" alt="React" />
