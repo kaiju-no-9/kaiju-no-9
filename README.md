@@ -28,7 +28,6 @@
 
 <p><samp><b>› AI, ML & AGENTS</b></samp></p>
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge" alt="PyTorch" />
 <img src="https://img.shields.io/badge/Machine_Learning-2563EB?style=for-the-badge" alt="Machine Learning" />
 <img src="https://img.shields.io/badge/Deep_Learning-7C3AED?style=for-the-badge" alt="Deep Learning" />
 <img src="https://img.shields.io/badge/RAG-7E57C2?style=for-the-badge" alt="RAG" />
@@ -38,17 +37,20 @@
 <img src="https://img.shields.io/badge/Agent_Harnesses-514078?style=for-the-badge" alt="Agent Harnesses" />
 
 <p><samp><b>› FRONTEND & DESIGN</b></samp></p>
+
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge" alt="React" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge" alt="Next.js" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-0F9DB8?style=for-the-badge" alt="Tailwind CSS" />
 
 <p><samp><b>› BACKEND</b></samp></p>
+
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge" alt="Node.js" />
 <img src="https://img.shields.io/badge/Express-303030?style=for-the-badge" alt="Express" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge" alt="Prisma" />
 
 <p><samp><b>› DEVOPS & CLOUD</b></samp></p>
+
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge" alt="Docker" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge" alt="Vercel" />
@@ -56,6 +58,7 @@
 <img src="https://img.shields.io/badge/Bun-292929?style=for-the-badge" alt="Bun" />
 
 <p><samp><b>› SYSTEMS & INFRA</b></samp></p>
+
 <img src="https://img.shields.io/badge/Distributed_Systems-5A3FC0?style=for-the-badge" alt="Distributed Systems" />
 <img src="https://img.shields.io/badge/Concurrency-00796B?style=for-the-badge" alt="Concurrency" />
 <img src="https://img.shields.io/badge/Networking-006E90?style=for-the-badge" alt="Networking" />
@@ -64,6 +67,7 @@
 
 
 <p><samp><b>› LANGUAGES</b></samp></p>
+
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge" alt="Go" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge" alt="TypeScript" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge" alt="JavaScript" />
