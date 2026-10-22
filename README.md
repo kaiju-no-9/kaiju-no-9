@@ -27,7 +27,7 @@
 <td valign="top" width="70%">
 
 <p><samp><b>› AI, ML & AGENTS</b></samp></p>
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge" alt="Python" />
+
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge" alt="PyTorch" />
 <img src="https://img.shields.io/badge/Machine_Learning-2563EB?style=for-the-badge" alt="Machine Learning" />
 <img src="https://img.shields.io/badge/Deep_Learning-7C3AED?style=for-the-badge" alt="Deep Learning" />
