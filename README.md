@@ -8,7 +8,7 @@
 -Full-Stack Developer | AI & Agent Systems
 -Frontend, Backend & Go
 -Interested in AI Harnesses, Developer Tools & Systems
--India
+-Earth
   </pre>
   </samp>
 </p>
